@@ -23,23 +23,43 @@ The project was made in **SOLIDWORKS** software.
 ## Research
 Distribution of blood velocity on the outflow wall:
 
+speed = 0.2:
+
 ![4](./images/0_2.jpg)
+
+speed = 0.4:
 
 ![5](./images/0_4.jpg)
 
+speed = 0.6:
+
 ![6](./images/0_6.jpg)
+
+speed = 0.8:
 
 ![7](./images/0_8.jpg)
 
+speed = 1.0:
+
 ![8](./images/1_0.jpg)
+
+speed = 1.2:
 
 ![9](./images/1_2.jpg)
 
+speed = 1.4:
+
 ![10](./images/1_4.jpg)
+
+speed = 1.6:
 
 ![11](./images/1_6.jpg)
 
+speed = 1.8:
+
 ![12](./images/1_8.jpg)
+
+speed = 2.0:
 
 ![13](./images/2_0.jpg)
 
@@ -53,5 +73,6 @@ Parametric simulation for the following speeds: 0.2, 0.4, 0.6, 0.8, 1.0, 1.2, 1.
 ![15](./images/parametric_simulation.jpg)
 
 It can be seen that the higher the input velocity, the higher the output velocity. 
+
 This can be interpreted as an effect of the increased force of displacement of blood from the heart chamber as the amount 
 of blood flowing into it increases.
